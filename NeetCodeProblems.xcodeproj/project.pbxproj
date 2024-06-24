@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B0205D732C28F44300CD5179 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B0205D722C28F44300CD5179 /* main.cpp */; };
+		B0205D7B2C28F50500CD5179 /* Arrays & Hashing.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B0205D7A2C28F50500CD5179 /* Arrays & Hashing.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		B0205D6F2C28F44300CD5179 /* NeetCodeProblems */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = NeetCodeProblems; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0205D722C28F44300CD5179 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B0205D792C28F49400CD5179 /* stdc++.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "stdc++.h"; sourceTree = "<group>"; };
+		B0205D7A2C28F50500CD5179 /* Arrays & Hashing.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Arrays & Hashing.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				B0205D722C28F44300CD5179 /* main.cpp */,
+				B0205D7A2C28F50500CD5179 /* Arrays & Hashing.cpp */,
+				B0205D792C28F49400CD5179 /* stdc++.h */,
 			);
 			path = NeetCodeProblems;
 			sourceTree = "<group>";
@@ -120,6 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B0205D732C28F44300CD5179 /* main.cpp in Sources */,
+				B0205D7B2C28F50500CD5179 /* Arrays & Hashing.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

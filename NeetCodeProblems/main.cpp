@@ -5,7 +5,7 @@
 //  Created by Pavan Reddy on 6/23/24.
 //
 
-#include <iostream>
+#include "stdc++.h"
 
 int main(int argc, const char * argv[]) {
     // insert code here...
