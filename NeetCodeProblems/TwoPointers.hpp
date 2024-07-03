@@ -8,7 +8,6 @@
 #ifndef TwoPointers_hpp
 #define TwoPointers_hpp
 
-#include <stdio.h>
 #include "stdc++.h"
 using namespace std;
 
