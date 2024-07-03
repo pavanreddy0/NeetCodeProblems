@@ -1,1 +1,2 @@
-./NeetCodeProblems.xcodeproj/project.pbxproj 
+*.xcodeproj/
+/NeetCodeProblems.xcodeproj
